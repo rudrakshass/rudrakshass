@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [(working on a portfolio)]((working on a portfolio))
+- 👨‍💻 All of my projects are available at ((working on a portfolio))
 
 - 💬 Ask me about **React.js**
 
