@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **rudraksharss@gmail.com**
 
+[![An image of @rudrakshass's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudrakshass)](https://holopin.io/@rudrakshass)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sengarrudraksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sengarrudraksha" height="30" width="40" /></a>
